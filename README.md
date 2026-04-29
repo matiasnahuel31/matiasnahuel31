@@ -134,15 +134,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Actividad reciente en Github</b></summary>
-  <br/>
-   <a href="https://github.com/matiasnahuel31"><img alt="Grafico de actividad de Matias" src="https://activity-graph.herokuapp.com/graph?username=matiasnahuel31&custom_title=Matias%20Melgarejo%20-%20Grafico%20Gde%20Contribución&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♂️ Contactemonos
@@ -157,7 +148,7 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/matiasnahuel31)
+* Credit: [matiasnahuel31](https://github.com/matiasnahuel31)
 * Last Edited on: 29/04/2026
 
 
