@@ -118,19 +118,19 @@
 
 <br/>
 
-## 📊 Estadisticas de Github (Expandir para ver) 
+## 📊 Estadísticas de Github (Expandir para ver) 
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estadísticas del perfil de Github</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Matias" src="https://github-readme-stats.vercel.app/api?username=matiasnahuel31&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasnahuel31&show_icons=true&locale=en&layout=compact&theme=algolia" alt="matiasnahuel31" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Nota:</b>La lista de lenguajes más utilizados es solo una métrica de los lenguajes que componen mi código público y no refleja mi experiencia ni mi nivel de habilidad.
   </p>
 </details>
 
@@ -138,7 +138,7 @@
 <details>
   <summary><b>⚡ Actividad reciente en Github</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Candida18"><img alt="Grafico de actividad de Matias" src="https://activity-graph.herokuapp.com/graph?username=matiasnahuel31&custom_title=Matias%20Melgarejo%20-%20Grafico%20Gde%20Contribución&theme=react-dark" /></a>
   <br/>
 
 </details>
