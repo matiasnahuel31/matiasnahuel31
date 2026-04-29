@@ -6,7 +6,7 @@
 <h4 align="center">Soy estudiante de segundo año en la UPE, me encuentro cursando Tecnicatura de Desarrollo Software y busco desarrollarme profesionalmente en el area IT. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta afrontar nuevos retos y aprender nuevas habilidades. Disfruto conociendo gente nueva, intercambiando ideas y compartiendo conocimientos y optimismo.
 </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matiasnahuel31&label=Profile%20views&color=0e75b6&style=plastic" alt="matiasnahuel31" /> </p>
+//<p align="center"> <img src="https://komarev.com/ghpvc/?username=matiasnahuel31&label=Profile%20views&color=0e75b6&style=plastic" alt="matiasnahuel31" /> </p>
 
 ## 🔥 Estadísticas de rachas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasnahuel31&theme=algolia" alt="matiasnahuel31"  /></p>
