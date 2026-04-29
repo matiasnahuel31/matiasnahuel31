@@ -128,9 +128,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Matias" src="https://github-readme-stats.vercel.app/api?username=matiasnahuel31&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasnahuel31&show_icons=true&locale=en&layout=compact&theme=algolia" alt="matiasnahuel31" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasnahuel31&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Matias" height="192px"/>
   <br/>
-  <b>Nota:</b>La lista de lenguajes más utilizados es solo una métrica de los lenguajes que componen mi código público y no refleja mi experiencia ni mi nivel de habilidad.
+  <b>Nota: </b>La lista de lenguajes más utilizados es solo una métrica de los lenguajes que componen mi código público y no refleja mi experiencia ni mi nivel de habilidad.
   </p>
 </details>
 
