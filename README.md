@@ -75,8 +75,6 @@
 ### 👉Diseño Grafico
 <p align="left">
   &emsp;
-  	
-  &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
   </a> 
