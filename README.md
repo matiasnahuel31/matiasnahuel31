@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Matias Melgarejo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Software;Siempre+aprendiendo+cosas+nuevas;HTML+%7C+CSS+%7C+Bootstrap;JS+%7C+C%2FC%2B%2B+%7C+JAVA%7C+C%23+%7C+React+JS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desarrollador+Software;Siempre+aprendiendo+cosas+nuevas;HTML+%7C+CSS+%7C+Bootstrap;JS+%7C+C%2FC%2B%2B+%7C+JAVA%7C+C%23+%7C+React+JS" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">Soy estudiante de segundo año en la UPE, me encuentro cursando Tecnicatura de Desarrollo Software y busco desarrollarme profesionalmente en el area IT. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta afrontar nuevos retos y aprender nuevas habilidades. Disfruto conociendo gente nueva, intercambiando ideas y compartiendo conocimientos y optimismo.
