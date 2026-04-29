@@ -138,7 +138,7 @@
 <details>
   <summary><b>⚡ Actividad reciente en Github</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Grafico de actividad de Matias" src="https://activity-graph.herokuapp.com/graph?username=matiasnahuel31&custom_title=Matias%20Melgarejo%20-%20Grafico%20Gde%20Contribución&theme=react-dark" /></a>
+   <a href="https://github.com/matiasnahuel31"><img alt="Grafico de actividad de Matias" src="https://activity-graph.herokuapp.com/graph?username=matiasnahuel31&custom_title=Matias%20Melgarejo%20-%20Grafico%20Gde%20Contribución&theme=react-dark" /></a>
   <br/>
 
 </details>
